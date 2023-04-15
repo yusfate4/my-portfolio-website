@@ -15,7 +15,9 @@ const HeaderSocials = () => {
         <a href="https://linkedin.com/yusfate4" target="_blank"  rel="noopener noreferrer"><BsLinkedin /></a>
         <a href="https://github.com/yusfate4" target="_blank"  rel="noopener noreferrer"><FaGithub /></a>
 
-    
+        <a href="#contact" className="scroll__down">
+          Scroll Down
+        </a>
     </div>
   )
 }

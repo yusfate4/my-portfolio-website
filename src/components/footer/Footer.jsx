@@ -3,13 +3,13 @@ import "./footer.css";
 import { FiTwitter } from "react-icons/fi";
 import { AiOutlineLinkedin } from "react-icons/ai";
 import { AiOutlineGithub } from "react-icons/ai";
+import { FaWhatsapp } from "react-icons/fa";
+import { AiOutlineMail } from "react-icons/ai";
 
 const Footer = () => {
   return (
     <footer>
-      <a href="#" className="footer__logo">
-        EGATOR
-      </a>
+   
 
       <ul className="permalinks">
         <li>
@@ -21,9 +21,7 @@ const Footer = () => {
         <li>
           <a href="#experience">Experience</a>{" "}
         </li>
-        <li>
-          <a href="#services">Services</a>{" "}
-        </li>
+     
         <li>
           <a href="#portfolio">Portfolio</a>{" "}
         </li>
@@ -33,17 +31,31 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://twitter.com">
+        <a href="https://twitter.com/yusfate4">
           <FiTwitter />
         </a>
-        <a href="https://linkedin.com">
+        <a href="https://www.linkedin.com/in/dahud-yusuf-ishola-35883ab7">
           <AiOutlineLinkedin />{" "}
         </a>
-        <a href="https://github.com">
+        <a href="https://github.com/yusfate4">
           <AiOutlineGithub />
         </a>
-      </div>
+        <a
+          href="https://api.whatsapp.com/send?phone=08174485504"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <FaWhatsapp />
+        </a>
 
+        <a
+          href="mailto:abiodunyusuf4@gmail.com"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <AiOutlineMail />
+        </a>
+      </div>
 
       <div className="footer__copyright">
         <small>&copy; Dahud Yusuf. </small>

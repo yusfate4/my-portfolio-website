@@ -1,8 +1,8 @@
 import React from "react";
 import "./contact.css";
-import { AiOutlineMail } from "react-icons/ai";
-import { FiTwitter } from "react-icons/fi";
-import { FaWhatsapp } from "react-icons/fa";
+// import { AiOutlineMail } from "react-icons/ai";
+// import { FiTwitter } from "react-icons/fi";
+// import { FaWhatsapp } from "react-icons/fa";
 import { useRef } from "react";
 import emailjs from "emailjs-com";
 
@@ -40,11 +40,11 @@ const Contact = () => {
 
   return (
     <section id="contact">
-      <h5>Get In Touch </h5>
-      <h2>Contact Me</h2>
+      <h5>Let's Get In Touch </h5>
+      <h2>I am constantly eager to hear about new projects and opportunities.</h2>
 
       <div className="container contact__container">
-        <div className="contact__options">
+        {/* <div className="contact__options">
           <article className="contact__option">
             <AiOutlineMail className="contact__option-icon" />
             <h4>Email</h4>
@@ -72,9 +72,7 @@ const Contact = () => {
           <article className="contact__option">
             <FaWhatsapp className="contact__option-icon" />
             <h4>WhatsApp</h4>
-            {/* <h5>+234</h5> */}
-            {/* https://api.whatsapp.com/send?phone=910000000000 */}
-            <a
+             <a
               href="https://api.whatsapp.com/send?phone=08174485504"
               target="_blank"
               rel="noopener noreferrer"
@@ -82,7 +80,7 @@ const Contact = () => {
               Send a message
             </a>
           </article>
-        </div>
+        </div> */}
         {/* END OF CONTACT OPTIONS */}
         <form ref={form} onClick={sendEmail}>
           <input
