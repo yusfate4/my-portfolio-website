@@ -45,7 +45,7 @@
   .experience__container {
     grid-template-columns: 1fr;
     width: 60%;
-    border: 3px solid red;
+    /* border: 3px solid red; */
 
   }
 
