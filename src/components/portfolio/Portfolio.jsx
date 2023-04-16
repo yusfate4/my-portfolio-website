@@ -12,9 +12,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Bankist-App dashboard",
-    github: "https://github.com/yusfate4/Bankist-App",
-    demo: "https://yusfate4.github.io/Bankist-App/",
+    title: "User Information Retrieval",
+    github: "https://github.com/yusfate4/mini-project",
+    demo: "https://yusfate4.github.io/mini-project/",
   },
   {
     id: 2,
