@@ -2,9 +2,9 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/portfolio__1.png";
 import IMG2 from "../../assets/portfolio__2.png";
-import IMG3 from "../../assets/portfolio3.jpg";
+import IMG3 from "../../assets/portfolio__3.jpg";
 import IMG4 from "../../assets/portfolio__4.png";
-import IMG5 from "../../assets/portfolio__5.jpg";
+import IMG5 from "../../assets/portfolio__5.png";
 import IMG6 from "../../assets/portfolio__6.png";
 
 // portfolios project
@@ -24,11 +24,11 @@ const data = [
     demo: "https://yusfate4.github.io/Guess-My-Game/",
   },
   {
-    id: 2,
+    id: 3,
     image: IMG3,
-    title: "Crypto currency dashboard",
-    github: "https://github.com",
-    demo: "https://github.com/yusfate4",
+    title: "Clipboard landing page",
+    github: "https://github.com/yusfate4/clipboard-landing-page",
+    demo: "https://yusfate4.github.io/clipboard-landing-page/",
   },
   {
     id: 4,
@@ -40,23 +40,23 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "Clipboard landing page",
-    github: "https://github.com/yusfate4/clipboard-landing-page",
-    demo: "https://yusfate4.github.io/clipboard-landing-page/",
+    title: "Eventful moment dashboard",
+    github: "https://github.com/yusfate4/Eventful-Moment",
+    demo: "https://eventful-moment-izs1jjg1c-yusfate4.vercel.app/",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Eventful moment dashboard",
-    github: "https://github.com/yusfate4/Eventful-Moment",
-    demo: "https://eventful-moment-izs1jjg1c-yusfate4.vercel.app/",
+    title: "Google Chrome User Guide",
+    github: "https://github.com/yusfate4/",
+    demo: "https://yusfate4.hashnode.dev/google-chrome-user-guide-for-mobile-android-and-ios-devices",
   },
 ];
 
 const Portfolio = () => {
   return (
     <section id="portfolio">
-      <h5>My Recent Work</h5>
+      <h5>My Recent Work and Article</h5>
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">

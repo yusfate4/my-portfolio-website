@@ -50,5 +50,9 @@
   .portfolio__container {
     grid-template-columns: 1fr;
     gap: 1rem;
+    margin: 0 auto;
+    align-items: center;
+    place-items: center;
+    /* border: 2px solid red; */
   }
 }
