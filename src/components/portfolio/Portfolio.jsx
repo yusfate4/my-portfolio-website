@@ -12,9 +12,9 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "User Information Retrieval",
-    github: "https://github.com/yusfate4/mini-project",
-    demo: "https://yusfate4.github.io/mini-project/",
+    title: "E-commerce Product Page",
+    github: "https://github.com/yusfate4/e-commerce-product-page",
+    demo: "https://e-commerce-page-product.netlify.app/",
   },
   {
     id: 2,
@@ -40,9 +40,9 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "Eventful moment dashboard",
-    github: "https://github.com/yusfate4/Eventful-Moment",
-    demo: "https://eventful-moment-izs1jjg1c-yusfate4.vercel.app/",
+    title: "User Information Retrieval",
+    github: "https://github.com/yusfate4/mini-project",
+    demo: "https://yusfate4.github.io/mini-project/",
   },
   {
     id: 6,
