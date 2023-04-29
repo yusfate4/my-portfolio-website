@@ -19,9 +19,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "Guess-My-Game",
-    github: "https://github.com/yusfate4/Guess-My-Game",
-    demo: "https://yusfate4.github.io/Guess-My-Game/",
+    title: "URL Shortener", 
+    github: "https://github.com/yusfate4/url-shortening-api",
+    demo: "https://url-shortner.netlify.app/",
   },
   {
     id: 3,
@@ -33,9 +33,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "Tiide Xplore",
-    github: "https://github.com/yusfate4/TiideXplore",
-    demo: "https://yusfate4.github.io/TiideXplore/",
+    title: "Guess-My-Game", 
+    github: "https://github.com/yusfate4/Guess-My-Game",
+    demo: "https://yusfate4.github.io/Guess-My-Game/",
   },
   {
     id: 5,
