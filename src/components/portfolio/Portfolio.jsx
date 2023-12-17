@@ -1,6 +1,6 @@
 import React from "react";
 import "./portfolio.css";
-import IMG1 from "../../assets/portfolio__1.png";
+import IMG1 from "../../assets/portfolio__1.jpeg";
 import IMG2 from "../../assets/portfolio__2.png";
 import IMG3 from "../../assets/portfolio__3.jpg";
 import IMG4 from "../../assets/portfolio__4.png";
@@ -12,14 +12,14 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "E-commerce Product Page",
-    github: "https://github.com/yusfate4/e-commerce-product-page",
-    demo: "https://e-commerce-page-product.netlify.app/",
+    title: "Beemak E-commerce Website",
+    github: "https://github.com/yusfate4/Beemak-E-commerce",
+    demo: "https://beemakfoods.netlify.app/",
   },
   {
     id: 2,
     image: IMG2,
-    title: "URL Shortener", 
+    title: "URL Shortener",
     github: "https://github.com/yusfate4/url-shortening-api",
     demo: "https://url-shortner.netlify.app/",
   },
@@ -33,7 +33,7 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "Guess-My-Game", 
+    title: "Guess-My-Game",
     github: "https://github.com/yusfate4/Guess-My-Game",
     demo: "https://yusfate4.github.io/Guess-My-Game/",
   },
