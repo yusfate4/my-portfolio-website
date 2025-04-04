@@ -19,9 +19,9 @@ const Header = () => {
               loop={Infinity}
               wrapper="b"
               steps={[
-                "Front-end Developer 👨‍💻",
+                "Web Developer 👨‍💻",
                 1500,
-                "Technical Writer ✍️",
+                "PHP & WordPress Expert ✍️",
                 1500,
               ]}
             />

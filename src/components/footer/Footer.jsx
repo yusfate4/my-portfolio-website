@@ -34,14 +34,14 @@ const Footer = () => {
         <a href="https://twitter.com/yusfate4">
           <FiTwitter />
         </a>
-        <a href="https://www.linkedin.com/in/dahud-yusuf-ishola-35883ab7">
+        <a href="https://www.linkedin.com/in/dahudyusuf/">
           <AiOutlineLinkedin />{" "}
         </a>
         <a href="https://github.com/yusfate4">
           <AiOutlineGithub />
         </a>
         <a
-          href="https://api.whatsapp.com/send?phone=08174485504"
+          href="https://wa.me/message/SOM4EYZEQ5T7L1"
           target="_blank"
           rel="noopener noreferrer"
         >

@@ -39,23 +39,28 @@ const About = () => {
           </div> */}
 
           <p>
-            As a goal-oriented front-end developer, I am committed to building
-            strong, collaborative teams and providing the best solutions
-            possible. My area of expertise is creating fantastic user interfaces
-            and my work is excellent and provides consumers with a smooth
-            experience across mobile and online platforms. <br /> <br /> I am
-            also a technical writer who focuses on using articles to address
-            issues. I write clear and straightforward instructions that enable
-            readers to effectively overcome any technical obstacle they may
-            encounter. I have a sharp eye for detail and a talent for reducing
-            complicated technical topics.
+            As a dedicated Web Developer, I am committed to building robust,
+            high-performing websites that deliver exceptional user experiences.
+            My expertise spans a wide range of web technologies, including PHP
+            and front-end development, allowing me to create responsive,
+            efficient solutions tailored to diverse needs. With a strong focus
+            on clean code and a keen eye for detail, I ensure every project
+            meets high standards of quality and functionality across platforms.
+            <br /> <br /> My specialization in WordPress sets me apart, where I
+            leverage its powerful capabilities to craft seamless, user-friendly
+            websites. With deep knowledge of WordPress architecture, I develop
+            custom themes, plugins, and optimized solutions that enhance
+            performance and scalability. Whether it’s ensuring mobile
+            responsiveness or fine-tuning site speed, I bring precision and
+            passion to every WordPress project, delivering results that exceed
+            expectations.
             {/* My writings are a go-to resource for
             anyone looking for real-world answers to their technological
             challenges, whether it be installing new hardware or diagnosing
             software problems. */}
           </p>
 
-          <a href="#contact" className="btn btn-primary">
+          <a href="https://wa.me/message/SOM4EYZEQ5T7L1" className="btn btn-primary">
             Let's Talk About Your Projects
           </a>
         </div>
